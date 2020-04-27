@@ -11,4 +11,5 @@ node-red-contrib-dashboard
 B) Serviços Cloud Foundry
 Watson Text to Speech
 
-O dashboard estara disponivel em https://<pathnodered>/ui
+O dashboard estara disponivel em https://pathrelativaaonodered/ui
+exemplo: https://iot2h19d.mybluemix.net/ui
