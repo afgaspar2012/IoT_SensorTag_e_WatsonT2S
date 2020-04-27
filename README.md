@@ -2,6 +2,7 @@
 Dashboard IoT - Apresenta variaveis medidas pelo SensorTag e utiliza Watson Text to Speech para aviso sonoro de temperatura excedida
 
 Requisitos:
+
 A) Apps Cloud Foundry
 Nodered
 
