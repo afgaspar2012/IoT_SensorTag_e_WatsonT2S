@@ -16,8 +16,9 @@ B) Serviços Cloud Foundry
 Watson Text to Speech
 
 
-
-
 Obs: O dashboard estara disponivel em https://pathrelativanodered/ui
 exemplo: https://iot2h19d.mybluemix.net/ui
+
+
+![alt text](https://github.com/afgaspar2012/IoT_SensorTag_e_WatsonTTS/blob/master/iot.png)
 
